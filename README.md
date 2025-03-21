@@ -23,11 +23,14 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 
 ## OUTPUT:
 ## Whois:
-![image](https://github.com/user-attachments/assets/2ed0bd7b-eb6e-4e4c-9179-4934b7206062)
+![Screenshot 2025-03-10 112946](https://github.com/user-attachments/assets/81b65b66-fc98-4775-9c1f-30ab85405ef2)
+
 ## ip2Location:
-![image](https://github.com/user-attachments/assets/7ddf2f0d-9117-400c-8b41-d940fbabb2ed)
+![Screenshot 2025-03-10 113229](https://github.com/user-attachments/assets/1bf728ad-7d82-4768-b31b-eca2b1392eda)
+
 ## History of the website:
-![image](https://github.com/user-attachments/assets/95210d14-c7ea-4993-9ac5-3722115723ac)
+![Screenshot 2025-03-20 233025](https://github.com/user-attachments/assets/d8088472-3459-46db-bf2f-e2f70ee9bcb1)
+
 ## Webserver Fingerprinting:
 # Netcat:
 ```
